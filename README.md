@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://sylva-egb.github.io/qr-code-component/)
+- Solution URL: [https://sylva-egb.github.io/qr-code-component/](https://sylva-egb.github.io/qr-code-component/)
 
 ## My process
 
